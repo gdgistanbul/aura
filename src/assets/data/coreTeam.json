@@ -1,56 +1,90 @@
 [
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
+        "name": "Resül Caner Yildirim",
+        "designation": "Designer | Google Design Expert | Sprint Master",
+        "twitter": "https://twitter.com/protechman",
+        "linkedin": "https://www.linkedin.com/in/protechman",
+        "github": "https://github.com/protechman",
+        "profileImage": "",
+        "website": ""
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
+        "name": "Erol Kaftanoglu",
+        "designation": "Android Developer at Blindid",
+        "twitter": "https://twitter.com/erolkaftanoglu",
+        "linkedin": "https://www.linkedin.com/in/erolkaftanoglu",
+        "github": "https://github.com/erolkaftanoglu",
+        "profileImage": "",
+        "website": "http://erolkaftanoglu.com"
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
+        "name": "Burcu (Türkmen) Yalcinkaya",
+        "designation": "Senior Android Developer at Tide",
+        "twitter": "https://twitter.com/burcuco",
+        "linkedin": "https://www.linkedin.com/in/burcuco",
+        "github": "https://github.com/burcuco",
+        "profileImage": "",
+        "website": ""
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
+        "name": "Selahattin Köle",
+        "designation": "Android Developer at Softtech",
+        "twitter": "https://twitter.com/selahattinkole",
+        "linkedin": "https://www.linkedin.com/in/selahattinkole",
+        "github": "https://github.com/selahattinkole",
+        "profileImage": "",
+        "website": ""
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
+        "name": "Cafer Mert Ceyhan",
+        "designation": "Android Developer Intern at arabam.com",
+        "twitter": "https://twitter.com/mertceyhan",
+        "linkedin": "https://www.linkedin.com/in/mertceyhan",
+        "github": "https://github.com/mertceyhan",
+        "profileImage": "",
+        "website": ""
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
+        "name": "Hadi Tok",
+        "designation": "Software Engineer at CitizenMe",
+        "twitter": "https://twitter.com/haditok",
+        "linkedin": "https://www.linkedin.com/in/haditok",
+        "github": "https://github.com/haditok",
+        "profileImage": "",
+        "website": ""
+    },{
+        "name": "OKAN AYDIN",
+        "designation": "Student - Android Developer ",
+        "twitter": "https://twitter.com/okanaydin34",
+        "linkedin": "https://www.linkedin.com/in/okanaydin34",
+        "github": "https://github.com/okanaydin34",
+        "profileImage": "",
+        "website": ""
+    },
+    {
+        "name": "Dilruba Yücesoy",
+        "designation": "Software Developer at Vizyoneks",
+        "twitter": "https://twitter.com/yucesoydilruba",
+        "linkedin": "https://www.linkedin.com/in/yucesoydilruba",
+        "github": "https://github.com/yucesoydilruba",
+        "profileImage": "",
+        "website": ""
+    },{
+        "name": "Sercan Yusuf",
+        "designation": "Boomset şirketinde Android Developer",
+        "twitter": "https://twitter.com/sercanyusuf",
+        "linkedin": "https://www.linkedin.com/in/sercanyusuf",
+        "github": "https://github.com/sercanyusuf",
+        "profileImage": "",
+        "website": ""
+    },
+    {
+        "name": "Onur Şafak",
+        "designation": "Software Developer at Mutlubiev",
+        "twitter": "https://twitter.com/osafak",
+        "linkedin": "https://www.linkedin.com/in/osafak",
+        "github": "https://github.com/osafak",
+        "profileImage": "",
+        "website": ""
     }
 ]

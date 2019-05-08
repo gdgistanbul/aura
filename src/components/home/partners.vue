@@ -100,7 +100,7 @@
                                             </v-layout>
                                         </v-img>
                                         </template>
-                                        <span class="google-font">GDG Jalandhar</span>
+                                        <span class="google-font">GDG Istanbul</span>
                                         </v-tooltip>
                                         </a>
                                     </v-card>
