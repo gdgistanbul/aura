@@ -1,20 +1,20 @@
 {
-    "FeatureEventName":"IWD'19 Istanbul",
-    "EventImage":"IWD.jpg",
+    "FeatureEventName":"Google After I/O'19 Istanbul",
+    "EventImage":"afterio.jpeg",
     "EventDate":{
-        "Date":"31",
-        "Month":"3",
+        "Date":"29",
+        "Month":"7",
         "Year":"2019"
     },
     "EventTime":{
-        "StartTime":"09:00 AM",
-        "EndTime":"04:30 PM"
+        "StartTime":"11:00 AM",
+        "EndTime":"5:30 PM"
     },
-    "EventVenue":"Kadir Has Üniversitesi Cibali Kampüsü",
-    "EventVenueMapLink":"https://goo.gl/maps/2MJE8LQxqkC5F3gf8",
-    "EventWebsite":"https://wtmistanbul.com/",
-    "EventDescription":"International Women's Day (IWD) is marked on March 8th every year. In different regions, the focus of celebrations ranges from general respect and appreciation for women to a celebration of women's economic, political, and social achievements.",
-    "MeetupLink":"https://www.meetup.com/GDG-Istanbul/events/253165595/",
+    "EventVenue":"iyzico Payment Services Inc.",
+    "EventVenueMapLink":"https://goo.gl/maps/FjZZ5f1oNyq",
+    "EventWebsite":"https://www.meetup.com/GDGIstanbul/events/261704719/",
+    "EventDescription":"Google I/O, Google tarafından 2008 yılından beri düzenlenen bir geliştirici festivalidir. Bu sene 7-9 Mayıs tarihlerinde San Francisco'da düzenlenen Google I/O 2019 etkinliğine Google Developer Groups (GDG) Istanbul'dan katılan arkadaşlarımızın; Mobil, Firebase, Kotlin, Google Asistan, Flutter, AI/ML gibi konularda paylaşılan yenilikleri ve orada edindikleri tecrübeleri bizimle paylaşacağı, After I/O 2019 Istanbul etkinliğinde bir araya geliyoruz. Bizimle beraber bu yeniliklerden haberdar olmak için 29 Haziran Cumartesi günü saatlerimiz 11:00'i gösterirken iyzico’nun ev sahipliğinde iyziPark 'da gerçekleştireceğimiz After I/O 2019 etkinliğini kaçırmayın! :)",
+    "MeetupLink":"https://www.meetup.com/GDG-Istanbul/events/261704719/",
     "RegistrationLink":"",
     "FBEventPageURL":""
 }
