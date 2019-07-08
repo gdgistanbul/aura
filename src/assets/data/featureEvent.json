@@ -1,20 +1,20 @@
 {
-    "FeatureEventName":"Google After I/O'19 Istanbul",
-    "EventImage":"afterio.jpeg",
+    "FeatureEventName":"Kotlin/Everywhere Istanbul",
+    "EventImage":"kotlin_everywhere_cfp.jpg",
     "EventDate":{
-        "Date":"29",
-        "Month":"7",
+        "Date":"24",
+        "Month":"8",
         "Year":"2019"
     },
     "EventTime":{
-        "StartTime":"11:00 AM",
-        "EndTime":"5:30 PM"
+        "StartTime":"12:00 PM",
+        "EndTime":"18:00 PM"
     },
-    "EventVenue":"iyzico Payment Services Inc.",
-    "EventVenueMapLink":"https://goo.gl/maps/FjZZ5f1oNyq",
-    "EventWebsite":"https://www.meetup.com/GDGIstanbul/events/261704719/",
-    "EventDescription":"Google I/O, Google tarafından 2008 yılından beri düzenlenen bir geliştirici festivalidir. Bu sene 7-9 Mayıs tarihlerinde San Francisco'da düzenlenen Google I/O 2019 etkinliğine Google Developer Groups (GDG) Istanbul'dan katılan arkadaşlarımızın; Mobil, Firebase, Kotlin, Google Asistan, Flutter, AI/ML gibi konularda paylaşılan yenilikleri ve orada edindikleri tecrübeleri bizimle paylaşacağı, After I/O 2019 Istanbul etkinliğinde bir araya geliyoruz. Bizimle beraber bu yeniliklerden haberdar olmak için 29 Haziran Cumartesi günü saatlerimiz 11:00'i gösterirken iyzico’nun ev sahipliğinde iyziPark 'da gerçekleştireceğimiz After I/O 2019 etkinliğini kaçırmayın! :)",
-    "MeetupLink":"https://www.meetup.com/GDGIstanbul/events/261704719/",
+    "EventVenue":"Kolektif House Maslak",
+    "EventVenueMapLink":"https://www.google.com/maps/search/?api=1&query=41.112873%2C29.020245",
+    "EventWebsite":"https://www.meetup.com/GDGIstanbul/events/261620597/",
+    "EventDescription":"Coming Soon...    ",
+    "MeetupLink":"https://www.meetup.com/GDGIstanbul/events/261620597/",
     "RegistrationLink":"",
     "FBEventPageURL":""
 }
