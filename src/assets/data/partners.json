@@ -13,6 +13,11 @@
         "name":"GDG[x]",
         "link":"https://github.com/gdg-x",
         "img":"gdg-x.svg"
+    },
+    {
+        "name":"mobiler",
+        "link":"https://www.mobiler.dev/",
+        "img":"mobiler.png"
     }
 
 ]
